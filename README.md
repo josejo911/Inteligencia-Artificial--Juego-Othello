@@ -1,1 +1,1 @@
-# Proyecto_3_IA_Othello
+# IA_Othello
